@@ -1,45 +1,67 @@
+# 👋 Hi, I'm Michael Obot
 
-<!---
-Michaelobot1/Michaelobot1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi, I'm Michael Obot 👋
-
-💻 **Dev,Engineering student** 
-
-🚀 Passionate about building innovative tech solutions and making a change🔧♥️. 
-
-
-📝 Currently working on exciting tech projects while writing articles on various topics. 
+🎓 Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
 
 ---
 
-## 🛠 Tech Stack & Skills
-- **Languages**: Python,JavaScript,raspberry pi. 
-- **Frameworks**: React,Node.js, Django
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Git,VSCode, Linux. 
-- **Other Skills**:Analytics, Strategic Planning. 
+## 💡 About Me
+
+I'm passionate about building innovative tech solutions and using my engineering background to solve real-world problems. I enjoy working on meaningful projects, contributing to open source, and writing articles on tech and strategy.
 
 ---
 
-## 🚀 Current Projects
-- **Personal Website**: Developing a portfolio to showcase my tech projects and articles.
-- **Open Source**: Contributing to open-source projects focused on web development and automation.
+## 🛠️ Tech Stack & Skills
+
+**Languages:**  
+Python • JavaScript • Raspberry Pi
+
+**Frameworks & Libraries:**  
+React • Node.js • Django
+
+**Databases:**  
+MySQL • MongoDB
+
+**Tools & Platforms:**  
+Git • VSCode • Linux
+
+**Other Skills:**  
+Analytics • Strategic Planning
 
 ---
 
-## 📈 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaelobot1&show_icons=true)
+## 🚧 Current Projects
+
+- 🌐 **Personal Website**  
+  Building a portfolio to showcase my projects, writing, and career journey.
+
+- 🤝 **Open Source Contributions**  
+  Actively contributing to projects in web development and automation.
 
 ---
 
-## 📫 How to reach me
-- Email: michaelobot3010@gmail.com
-- [LinkedIn](https://linkedin.com/in/michaelobot)
+## 📊 GitHub Insights
 
+<div align="center">
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michaelobot1&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelobot1&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Michaelobot1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: michaelobot3010@gmail.com  
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/michaelobot)
 ---
 
 ## 🌱 Fun Fact
-- I love blending my tech skills with engineering insights to create practical solutions!
-- When I'm not coding, I am reading,writing or exploring new tech trends. 
+
+I love blending tech with engineering to create practical, real-life solutions.  
+When I'm not coding, you'll find me reading, writing, or exploring new tech trends.
+
+---
+
+_Thanks for stopping by — let’s build something great together!_
