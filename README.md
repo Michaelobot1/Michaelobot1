@@ -1,44 +1,39 @@
 # 👋 Hi, I'm Michael Obot
 
-🎓 Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
+### 🎓 Engineering Student | 💻 Developer | 🤖 Robotics Enthusiast
 
 ---
 
 ## 💡 About Me
 
-I'm passionate about building innovative tech solutions and using my engineering background to solve real-world problems. I enjoy working on meaningful projects, contributing to open source, and writing articles on tech and strategy.
+I'm a passionate developer and engineering student focused on building **innovative tech solutions** for real-world impact. My background spans web development (React, Django), data management, and practical hardware integration.
+
+**Currently, I am specializing in Robotics and Automation**, leveraging my engineering skills to develop systems that bridge the gap between software logic and physical actions. I enjoy contributing to **open-source** projects and sharing knowledge through writing on tech and strategy.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:**  
-Python • JavaScript • Raspberry Pi
-
-**Frameworks & Libraries:**  
-React • Node.js • Django
-
-**Databases:**  
-MySQL • MongoDB
-
-**Tools & Platforms:**  
-Git • VSCode • Linux
-
-**Other Skills:**  
-Analytics • Strategic Planning
+| Category | Skills & Focus |
+| :--- | :--- |
+| **Robotics & IoT** | **Raspberry Pi** • Hardware Integration • Automation • Embedded C/Python |
+| **Languages** | Python • JavaScript • C/C++ (Basic) |
+| **Web Frameworks** | **React** • **Node.js** • **Django** |
+| **Databases** | MySQL • MongoDB |
+| **Tools & Platforms** | Git • VSCode • Linux |
+| **Core Strengths** | Analytics • Strategic Planning • Problem Solving |
 
 ---
 
 ## 🚧 Current Projects
 
-- 🌐 **Personal Website**  
-  Building a portfolio to showcase my projects, writing, and career journey.
+### 🌐 Personal Website
+Building a portfolio to showcase my projects, writing, and career journey.
 
-- 🤝 **Open Source Contributions**  
-  Actively contributing to projects in web development and automation.
+### 🤝 Open Source Contributions
+Actively contributing to projects in web development and automation.
 
 ---
-
 ## 📊 GitHub Insights
 
 <div align="center">
