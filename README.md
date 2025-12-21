@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Michael Obot
+# 👋 Hello ,my name is Michael Obot.
 
-### 🎓 Engineering Student | 💻 Developer | 🤖 Robotics Enthusiast
+### Polymath |🎓 Engineering Student | 💻 Developer | 🤖 Robotics Enthusiast |I love building.
 
 ---
 
