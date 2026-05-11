@@ -1,12 +1,12 @@
-# 👋 Hello ,my name is Michael Obot.
+# Hello , my name is Michael.
 
-### Polymath |🎓 Engineering Student | 💻 Developer | 🤖 Robotics Enthusiast |I love building.
+### Engineering Student | Developer | Robotics Enthusiast | I love building things.
 
 ---
 
-## 💡 About Me
+## About Me
 
-I'm a passionate developer and engineering student focused on building **innovative tech solutions** for real-world impact. My background spans web development (React, Django), data management, and practical hardware integration.
+I am a passionate developer and engineering student focused on building **innovative tech solutions** for real-world impact. My background spans web development (React, Django), data management, and practical hardware integration.
 
 **Currently, I am specializing in Robotics and Automation**, leveraging my engineering skills to develop systems that bridge the gap between software logic and physical actions. I enjoy contributing to **open-source** projects and sharing knowledge through writing on tech and strategy.
 
